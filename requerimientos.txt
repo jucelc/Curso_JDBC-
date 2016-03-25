@@ -1,5 +1,0 @@
-Empleado
-Sucursal
-Cliente
-Cuenta
-Contador
